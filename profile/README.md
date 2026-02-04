@@ -34,7 +34,7 @@ Here are some of the projects under the Appvio organization:
 
 | Project | Description |
 |---------|-------------|
-|  |  |
+| Spacely | Spacely is a web platform that aggregates Workspaces and Coworking Spaces, allowing users to search, view details, contact, and rate Workspaces. Owners and admins can manage listings efficiently, while users enjoy filtering, galleries, and reviews. |
 
 > **Note:** More projects are coming soon! Stay tuned.  
 
