@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/3f7810c6-1e1a-4024-9b1e-c5b8559a7041)
+![banner](./banner.jpeg)
 
 # Welcome to Appvio 👋
 
